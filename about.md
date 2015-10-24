@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img src="/img/tyia_cover.png" width="640" />
 
 <br/>
 We will create on-the-spot, live comic scenes incorporating your audience suggestions. Thank you in Advance for liking us.
@@ -18,5 +18,5 @@ We will create on-the-spot, live comic scenes incorporating your audience sugges
 </span>
 
 <div class="col three caption">
-	You can reach us by email.
+	Contact us by email.
 </div>

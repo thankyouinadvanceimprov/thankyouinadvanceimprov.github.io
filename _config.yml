@@ -1,5 +1,5 @@
 # Site settings
-title: TYIA
+title: TYIA Improv
 email: thankyouinadvanceimprov@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   An Improv Group based in Atlanta.
@@ -14,8 +14,8 @@ markdown: kramdown
 highlighter: pygments
 
 # Pagination
-paginate: 15
-paginate_path: "/blog/page:num/"
+# paginate: 15
+# paginate_path: "/blog/page:num/"
 
 
 collections:
