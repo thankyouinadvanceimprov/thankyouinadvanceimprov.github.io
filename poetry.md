@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /poetry/
+permalink: /shows/
 title: shows
 description: Our upcoming shows.
 ---
