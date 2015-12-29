@@ -7,10 +7,9 @@ description: Our upcoming shows.
 
 <ul class="post-list">
   <li>
-    <h2><a class="poem-title">Spoons playing Spoon River</a></h2>
-    <p class="post-meta">Jan 5, 2016 (Tue) - Time: TBD.</p>
+    <h2><a class="poem-title" href="https://www.facebook.com/events/1085570041487684/">Spoons playing Spoon River</a></h2>
+    <p class="post-meta">Jan 5, 2016 (Tue) - Time: 8:00 pm.</p>
     <p class="post-meta">Avondale Towne Cinema</p>
-    <p><a href="https://www.facebook.com/ThankYouInAdvanceImprov/">Join our FB page for updates.</a></p>
   </li>
 
   <li>
